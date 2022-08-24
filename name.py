@@ -17,6 +17,7 @@ print("\t" + message2)
 favoritePlanet = "Arrakis. "
 print("Hello, my favorite planet in the Dune universe is " + favoritePlanet)
 
+#The rstrip function removes whitespace from the variable
 favoritePlanet = favoritePlanet.rstrip()
 
 print(favoritePlanet)
