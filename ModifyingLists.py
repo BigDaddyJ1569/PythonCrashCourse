@@ -43,3 +43,5 @@ DuneChars.remove(too_evil)
 print("\nThe " + too_evil.title() +" is too evil to be left alive!")
 print(DuneChars)
 
+DunePlanets.sort()
+print(DunePlanets)
