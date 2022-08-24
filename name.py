@@ -12,6 +12,7 @@ message = "This is your message"
 message2 = "This is your message on TAB"
 
 print(message)
+#the \t represents a tab, this will adds a tabs worth of whitespace into this message.
 print("\t" + message2)
 
 favoritePlanet = "Arrakis. "
